@@ -1,0 +1,6 @@
+com\gestiondesclients\model\Client.class
+com\gestiondesclients\config\ClientConfig.class
+com\gestiondesclients\controller\ClientController.class
+com\gestiondesclients\manager\ClientManager.class
+com\gestiondesclients\GestionDesClients.class
+com\gestiondesclients\repository\ClientRepository.class
